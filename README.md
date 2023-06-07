@@ -11,13 +11,13 @@ PRMT7 отвечает за каталитический перенос мети
 https://pubmed.ncbi.nlm.nih.gov/37216364/
 ## Выравнивание гистонов с помощью программы MEGA:
 ## H2A
-![image](https://github.com/Valeria2305/hse23_project_grishkina/assets/77625525/98fe992b-5b07-47a7-8112-65e479cc0320)
+![image](https://github.com/Valeria2305/hse23_project_grishkina/assets/77625525/cab043e6-d17e-41c3-b80f-33493dfb2bfb)
 ## H2B
-![image](https://github.com/Valeria2305/hse23_project_grishkina/assets/77625525/6d74a5f3-9750-49fa-a733-1de4b97199be)
+![image](https://github.com/Valeria2305/hse23_project_grishkina/assets/77625525/adf3be43-03b7-4022-bb58-fcfcb011f878)
 ## H3
-![image](https://github.com/Valeria2305/hse23_project_grishkina/assets/77625525/7b718adb-ce66-4534-9ee8-d60b64b50c7e)
+![image](https://github.com/Valeria2305/hse23_project_grishkina/assets/77625525/1e5e1242-909e-4b03-88cf-952f8c9ba5e6)
 ## H4
-![image](https://github.com/Valeria2305/hse23_project_grishkina/assets/77625525/74ad25f0-dcbc-44ed-8e59-18f9c2b3e5ba)
+![image](https://github.com/Valeria2305/hse23_project_grishkina/assets/77625525/62df11da-e28f-48fa-9b37-78d0f1a47929)
 ## Итоговые таблицы и тепловая карта:
 e-value:
 ![image](https://github.com/Valeria2305/hse23_project_grishkina/assets/77625525/92777704-9d76-4d14-9113-6ff73390ed6b)
