@@ -1,6 +1,6 @@
 # hse23_project_grishkina
 ## Ссылка на gooole-colab: <br />
-https://colab.research.google.com/drive/1IwhnwM3vBHnHx8e34SAfbHezCJjNGUNJ?hl=ru
+https://colab.research.google.com/drive/1ZbEVbep4CVRd4dHFKt4YHtmThUu6nNID?hl=ru#scrollTo=5yeEgbwkYtPb
 ## Описание белка: <br />
 PRMT7 отвечает за каталитический перенос метильной группы от S-аденозилметионина к различным субстратам, включая гистон Н2А. Эта активность метилирования играет роль в регуляции экспрессии генов, присутствия хроматина и других клеточных процессов, а также участвует в регуляции роста и дифференцировки клеток.
 ## Доменная структура PRMT7:
