@@ -25,7 +25,7 @@ e-value:
 ![image](https://github.com/Valeria2305/hse23_project_grishkina/assets/77625525/5c01276d-197f-47d4-a83e-1a2747fb8f7b)
 Heatmap:
 ![image](https://github.com/Valeria2305/hse23_project_grishkina/assets/77625525/18dd043e-e379-45d2-ba79-743aee2bcc85)
-
+Из тепловой карты видно, что PRMT7 впервые появился у Caenorhabditis elegans.
 
 
 
